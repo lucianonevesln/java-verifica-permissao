@@ -3,6 +3,8 @@ public class Calculo {
     String NAO_PERMITIDO = "Não permitido!";
     String PERMITIDO_PARCIALMENTE = "Permitido Parcialmente!";
     String PERMITIDO = "Permitido!";
+
+    // Declaração de variável
     String retorno;
 
     // Declaração de método que retorna status de permissão
